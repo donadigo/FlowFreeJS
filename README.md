@@ -4,3 +4,4 @@
 The game uses [p5.js](https://p5js.org/) to draw the main board.
 
 ## Screenshot
+![Screenshot](https://raw.githubusercontent.com/donadigo/FlowFreeJS/master/screenshot.png)
